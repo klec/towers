@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class SoundReload extends Sound {						public function SoundReload() {			// constructor code		}	}	}

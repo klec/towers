@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class SoundAK74 extends Sound {						public function SoundAK74() {			// constructor code		}	}	}
